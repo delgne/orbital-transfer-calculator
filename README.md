@@ -30,6 +30,7 @@ This tool uses the [**Hohmann transfer**](https://orbital-mechanics.space/orbita
 3. **Second Burn (Apogee Kick):**  
    At the far end of the ellipse, do a second burn to circularize.
 
-The ΔV values are calculated using the **vis-viva equation**:
+The ΔV values are calculated using the [**vis-viva equation**](https://en.wikipedia.org/wiki/Vis-viva_equation):
+
 <img width="431" height="200" alt="Screenshot 2025-07-25 at 8 58 41 PM" src="https://github.com/user-attachments/assets/5df97d7b-6dba-4a27-bade-bbab55d5d886" />
 
